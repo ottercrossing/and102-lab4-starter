@@ -1,4 +1,4 @@
-package com.codepath.articlesearch
+package com.codepath.hippo
 
 import org.junit.Test
 
